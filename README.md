@@ -157,7 +157,7 @@ Enseñarle al usuario de manera lúdica y rápida a ahorrar, por medio de tips, 
 1.Se modifico algunos elementos que afectaban la usabilidad del usuario, como el botón de crear cuenta y se le agrego los terminos y condiciones
 ![LFP_4](https://github.com/Andrea0611/APP-FINACIERA/blob/master/Sign%20Up%20%235.png)
 2. Cuando entren a la aplicación, les aparecera un tip, recomendación, o dato para aprender a ahorrar. Que podrás cerrar de inmediato si no te interesa o leerlo con detenimiento. Además de acuerdo a tus gastos te dará recomendaciones para ahorrar.
-![LFP_5]()
+![LFP_5](https://github.com/Andrea0611/APP-FINACIERA/blob/master/Ahorros%202.2.jpg)
 
 
 
