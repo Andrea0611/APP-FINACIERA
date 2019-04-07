@@ -50,7 +50,7 @@ https://www.condusef.gob.mx/Revista/index.php/presupuesto-familiar/plan-de-vida-
 
 
 ### Análisis Heurístico de la app
- 
+![LFP_1](https://github.com/Andrea0611/APP-FINACIERA/blob/master/Heuristica.jpg)
 
 ##### Insight Heurística
 * Visibilidad del estado de sistema: No tiene informado en todo momento la sección en que se encuentra
@@ -58,7 +58,7 @@ https://www.condusef.gob.mx/Revista/index.php/presupuesto-familiar/plan-de-vida-
 * Botón de “Crear cuenta”: es confuso, no es clara la función que se quiere realizar; crear un ahorro, además por la ubicación tampoco se entiende como botón
 
 ##### Berchmarker
-
+![LFP_2](https://github.com/Andrea0611/APP-FINACIERA/blob/master/benchmark.jpg)
 (Foto)
 ##### Insights
 * Generan un presupuesto basado en el comportamiento
@@ -125,6 +125,8 @@ Negocios
 > No reciben tantos recursos monetario
 
 ##### User Persona
+
+![LFP_3](https://github.com/Andrea0611/APP-FINACIERA/blob/master/UserPerson.png)
 ###### Fernando
 Perfil 1
 Edad 20 
@@ -152,7 +154,12 @@ Enseñarle al usuario de manera lúdica y rápida a ahorrar, por medio de tips, 
 
 #### Definición del reto de diseño
 
-1. Cuando entren a la aplicación, les aparecera un tip, recomendación, o dato para aprender a ahorrar. Que podrás cerrar de inmediato si no te interesa o leerlo con detenimiento. Además de acuerdo a tus gastos te dará recomendaciones para ahorrar.
+1.Se modifico algunos elementos que afectaban la usabilidad del usuario, como el botón de crear cuenta y se le agrego los terminos y condiciones
+![LFP_4](https://github.com/Andrea0611/APP-FINACIERA/blob/master/Sign%20Up%20%235.png)
+2. Cuando entren a la aplicación, les aparecera un tip, recomendación, o dato para aprender a ahorrar. Que podrás cerrar de inmediato si no te interesa o leerlo con detenimiento. Además de acuerdo a tus gastos te dará recomendaciones para ahorrar.
+![LFP_5]()
+
+
 
 ###### Propuesta de valor
 “Gana más, ahorrando más”
@@ -162,10 +169,23 @@ Enseñarle al usuario de manera lúdica y rápida a ahorrar, por medio de tips, 
 * Nivel 3 (11-15 metas) +9 por meta terminada. Al concluir este nivel se te otorgaran +15pts.
 * Nivel 4 (16-20 metas) +11 por meta terminada. Al concluir este nivel se te otorgaran +20pts.
 * Nivel 5 (21 metas en adelante) +15 por meta terminada. 
+![LFP_6(https://github.com/Andrea0611/APP-FINACIERA/blob/master/Ahorros%201.jpg)
+![LFP_7](https://github.com/Andrea0611/APP-FINACIERA/blob/master/Ahorros.1.jpg)
+
 
 ###### Propuestas
 3. Se propone implementar la app en la plataforma Android, para generar más usuarios. Con base a la investigación se detectó que desde la landing page se pierde gran cantidad de usuarios debido a que la app solo existe para Android.
 4. Además se detectó que otra gran pérdida de usuarios sucede al momento de registrarse, ya que es muy largo el proceso. Por lo que se modifica el registro: por medio de una contraseña y si el usuario lo prefiere, es opcional el registro de la huella digital y de el uso de fotografía
+![LFP_8](https://github.com/Andrea0611/APP-FINACIERA/blob/master/Sign%20Up%20-%20Photo%20%231.png)
+![LFP_9](https://github.com/Andrea0611/APP-FINACIERA/blob/master/Sign%20Up%20-%20Touch%20ID%20%231.png)
 
 
 #### Prototipado
+Se realizo el prototipado en figma para modificar el diseño https://www.figma.com/file/kwoF0tHvii6hTyARfWWIQ2/proyecto-2-banca-(AndreaParrilla)?node-id=0%3A477 y para darle usabilida se realizo un prototipo en marvel https://marvelapp.com/b31cahe/screen/55356262
+
+#### Programas usados
+* Figma
+* Marvel
+* Illustrator
+* Photoshop
+* Miro
